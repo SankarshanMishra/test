@@ -1,5 +1,0 @@
-{{#user}}
-Name: Sankarshan Mishra
-Skills: OOPs in Java,DSA in Java,Basics of Python
-Email: sankarshanmishra03@gmail.com
-{{/user}}
